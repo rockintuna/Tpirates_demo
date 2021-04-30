@@ -1,0 +1,5 @@
+[{ "day": "Monday", "open": "13:00", "close": "23:00"},
+{ "day": "Tuesday", "open": "13:00", "close": "23:00"},
+{ "day": "Wednesday", "open": "09:00", "close": "18:00"},
+{ "day": "Thursday", "open": "09:00", "close": "23:00"},
+{ "day": "Friday", "open": "09:00", "close": "23:00"}]
