@@ -1,0 +1,17 @@
+{
+  "name": "거북선",
+  "owner": "이순신",
+  "description": "오징어 맛집",
+  "level": 1,
+  "address": "서울 마포구",
+  "phone": "010-4321-0000",
+  "businessTimes": [
+    { "day": "Monday", "open": "09:00", "close": "24:00"
+  }, { "day": "Tuesday", "open": "09:00", "close": "24:00"
+  }, { "day": "Wednesday", "open": "09:00", "close": "24:00"
+  }, { "day": "Thursday", "open": "09:00", "close": "24:00"
+  }, { "day": "Friday", "open": "09:00", "close": "24:00"
+  }, { "day": "Saturday", "open": "09:00", "close": "23:00"
+  }, { "day": "Sunday", "open": "09:00", "close": "23:00"
+  } ]
+}
